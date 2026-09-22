@@ -80,13 +80,13 @@ program.exe
 
 ## 📚 Topics Covered
 
-* [x] **Conditional Statements**
+* [ ] **Conditional Statements**
 * `if`, `if-else`, `else-if` ladders
 * Nested conditionals
 * `switch-case` constructs
 
 
-* [x] **Loops & Iteration**
+* [ ] **Loops & Iteration**
 * `for` loop
 * `while` loop
 * `do-while` loop
